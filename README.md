@@ -1,7 +1,7 @@
 # Food-ordering-website
 it is a front-end project it was my first project in journey of learning programming
 
-#Run Project
+# Steps-To-Run-Project
  1) dowload this project 
  2) create a folder and copy all files into that folder
  3) right click inside that folder and select open with vs code.
